@@ -1,11 +1,11 @@
 # hub-usb-2
 
-Diseño de hub USB 2.0 en PCB, orientado a distribución de puertos o integración dentro de un equipo electrónico propio.
+Hub USB 2.0 desarrollado en KiCad, pensado para distribuir conectividad USB desde una placa propia con regulación y protección integradas.
+
+## Propósito del proyecto
+Este diseño busca implementar un hub USB reutilizable dentro de un sistema electrónico propio, integrando controlador USB, protección de líneas y regulación de alimentación.
 
 ## Qué incluye
-- esquemáticos o archivos de diseño en KiCad
-- PCB o documentación asociada
-- base reutilizable para análisis, fabricación o mejora del proyecto
-
-## Propósito general
-Este repositorio busca concentrar el diseño de hardware del proyecto en un formato editable y reutilizable, facilitando pruebas, documentación y futuras iteraciones del circuito.
+- esquemático del hub USB 2.0
+- PCB en KiCad
+- soporte para alimentación y distribución de múltiples puertos
